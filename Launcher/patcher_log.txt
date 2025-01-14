@@ -1,0 +1,140 @@
+
+=== 01/14/2025 19:04:54 ===
+Checking for updates...
+System.InvalidOperationException: There is an error in XML document (8, 2).
+ ---> System.InvalidOperationException: <html xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderVersionInfo.Read7_VersionInfo()
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at GameLauncherCore.PatchUtils.DeserializeXMLToVersionInfo(String xmlContent)
+   at GameLauncherCore.GameLauncherPatcher.p1SKIC9QDJ()
+ERROR: version info is invalid
+
+=== 01/14/2025 19:04:59 ===
+Checking for updates...
+System.InvalidOperationException: There is an error in XML document (8, 2).
+ ---> System.InvalidOperationException: <html xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderVersionInfo.Read7_VersionInfo()
+   at InvokeStub_XmlSerializationReaderVersionInfo.Read7_VersionInfo(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at GameLauncherCore.PatchUtils.DeserializeXMLToVersionInfo(String xmlContent)
+   at GameLauncherCore.GameLauncherPatcher.p1SKIC9QDJ()
+ERROR: version info is invalid
+
+=== 01/14/2025 19:05:01 ===
+Checking for updates...
+System.InvalidOperationException: There is an error in XML document (8, 2).
+ ---> System.InvalidOperationException: <html xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderVersionInfo.Read7_VersionInfo()
+   at InvokeStub_XmlSerializationReaderVersionInfo.Read7_VersionInfo(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at GameLauncherCore.PatchUtils.DeserializeXMLToVersionInfo(String xmlContent)
+   at GameLauncherCore.GameLauncherPatcher.p1SKIC9QDJ()
+ERROR: version info is invalid
+
+=== 01/14/2025 19:07:37 ===
+Checking for updates...
+System.InvalidOperationException: There is an error in XML document (8, 2).
+ ---> System.InvalidOperationException: <html xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderVersionInfo.Read7_VersionInfo()
+   at InvokeStub_XmlSerializationReaderVersionInfo.Read7_VersionInfo(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at GameLauncherCore.PatchUtils.DeserializeXMLToVersionInfo(String xmlContent)
+   at GameLauncherCore.GameLauncherPatcher.p1SKIC9QDJ()
+ERROR: version info is invalid
+
+=== 01/14/2025 19:07:40 ===
+Checking for updates...
+System.InvalidOperationException: There is an error in XML document (8, 2).
+ ---> System.InvalidOperationException: <html xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderVersionInfo.Read7_VersionInfo()
+   at InvokeStub_XmlSerializationReaderVersionInfo.Read7_VersionInfo(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at GameLauncherCore.PatchUtils.DeserializeXMLToVersionInfo(String xmlContent)
+   at GameLauncherCore.GameLauncherPatcher.p1SKIC9QDJ()
+ERROR: version info is invalid
+
+=== 01/14/2025 19:11:45 ===
+Checking for updates...
+System.InvalidOperationException: There is an error in XML document (8, 2).
+ ---> System.InvalidOperationException: <html xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderVersionInfo.Read7_VersionInfo()
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at GameLauncherCore.PatchUtils.DeserializeXMLToVersionInfo(String xmlContent)
+   at GameLauncherCore.GameLauncherPatcher.p1SKIC9QDJ()
+ERROR: version info is invalid
+
+=== 01/14/2025 19:15:26 ===
+Checking for updates...
+System.InvalidOperationException: There is an error in XML document (8, 2).
+ ---> System.InvalidOperationException: <html xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderVersionInfo.Read7_VersionInfo()
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at GameLauncherCore.PatchUtils.DeserializeXMLToVersionInfo(String xmlContent)
+   at GameLauncherCore.GameLauncherPatcher.p1SKIC9QDJ()
+ERROR: version info is invalid
+
+=== 01/14/2025 19:15:32 ===
+Checking for updates...
+System.InvalidOperationException: There is an error in XML document (8, 2).
+ ---> System.InvalidOperationException: <html xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderVersionInfo.Read7_VersionInfo()
+   at InvokeStub_XmlSerializationReaderVersionInfo.Read7_VersionInfo(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at GameLauncherCore.PatchUtils.DeserializeXMLToVersionInfo(String xmlContent)
+   at GameLauncherCore.GameLauncherPatcher.p1SKIC9QDJ()
+ERROR: version info is invalid
+
+=== 01/14/2025 19:15:53 ===
+Checking for updates...
+System.InvalidOperationException: There is an error in XML document (8, 2).
+ ---> System.InvalidOperationException: <html xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderVersionInfo.Read7_VersionInfo()
+   at InvokeStub_XmlSerializationReaderVersionInfo.Read7_VersionInfo(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at GameLauncherCore.PatchUtils.DeserializeXMLToVersionInfo(String xmlContent)
+   at GameLauncherCore.GameLauncherPatcher.p1SKIC9QDJ()
+ERROR: version info is invalid
+
+=== 01/14/2025 19:15:55 ===
+Checking for updates...
+System.InvalidOperationException: There is an error in XML document (8, 2).
+ ---> System.InvalidOperationException: <html xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderVersionInfo.Read7_VersionInfo()
+   at InvokeStub_XmlSerializationReaderVersionInfo.Read7_VersionInfo(Object, Object, IntPtr*)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at GameLauncherCore.PatchUtils.DeserializeXMLToVersionInfo(String xmlContent)
+   at GameLauncherCore.GameLauncherPatcher.p1SKIC9QDJ()
+ERROR: version info is invalid
