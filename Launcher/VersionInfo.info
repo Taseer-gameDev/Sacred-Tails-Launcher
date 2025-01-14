@@ -2,7 +2,7 @@
 <VersionInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <BaseDownloadURL>https://github.com/Taseer-gameDev/Sacred-Tails-Launcher/tree/main/Launcher/</BaseDownloadURL>
   <MaintenanceCheckURL />
-  <Version>1.0.2</Version>
+  <Version>1.0.0</Version>
   <Patches>
     <IncrementalPatch Files="1" CompressionFormat="NONE" PatchSize="1822720" PatchMd5Hash="e3a29e46bd7cf37d95b84151b316a8c0" InfoURL="" DownloadURL="">
       <FromVersion>1.0.0</FromVersion>
@@ -22,6 +22,8 @@
   <CompressionFormat>NONE</CompressionFormat>
   <Files>
     <VersionItem Path="GameLauncher.exe" FileSize="198420806" Md5Hash="93e33c187cc847c5629ea87c10531efa" CompressedFileSize="198420806" CompressedMd5Hash="93e33c187cc847c5629ea87c10531efa" DownloadURL="" />
+    <VersionItem Path="news_Untitled Game.json" FileSize="6142" Md5Hash="062293e1f3077c547f5e151e8bf484cf" CompressedFileSize="6142" CompressedMd5Hash="062293e1f3077c547f5e151e8bf484cf" DownloadURL="" />
+    <VersionItem Path="settings.json" FileSize="262" Md5Hash="8bf96e0ad4de86b8d80e010fa053dd60" CompressedFileSize="262" CompressedMd5Hash="8bf96e0ad4de86b8d80e010fa053dd60" DownloadURL="" />
   </Files>
   <Name>Launcher</Name>
 </VersionInfo>
