@@ -2,7 +2,7 @@
 <VersionInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <BaseDownloadURL>https://github.com/Taseer-gameDev/Sacred-Tails-Launcher/tree/main/Launcher/</BaseDownloadURL>
   <MaintenanceCheckURL />
-  <Version>1.0.1</Version>
+  <Version>1.0.2</Version>
   <Patches>
     <IncrementalPatch Files="1" CompressionFormat="NONE" PatchSize="1822720" PatchMd5Hash="e3a29e46bd7cf37d95b84151b316a8c0" InfoURL="" DownloadURL="">
       <FromVersion>1.0.0</FromVersion>
