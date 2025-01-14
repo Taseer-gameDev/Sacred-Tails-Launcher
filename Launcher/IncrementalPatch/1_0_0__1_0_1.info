@@ -2,7 +2,6 @@
 <PatchInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <RenamedFiles />
   <Files>
-    <PatchItem Path="SelfUpdater\SelfPatcher.exe" BeforeFileSize="0" BeforeMd5Hash="" AfterFileSize="91136" AfterMd5Hash="892084145a721a34e3a17fb1556a4080" />
-    <PatchItem Path="SelfUpdater\SelfPatcherCore.dll" BeforeFileSize="0" BeforeMd5Hash="" AfterFileSize="8704" AfterMd5Hash="bac8446629bfed2ac4e6dda963fc44a9" />
+    <PatchItem Path="GameLauncher.exe" BeforeFileSize="198371654" BeforeMd5Hash="fbbb7e1a9d9043137cd4699f433ccde1" AfterFileSize="198420806" AfterMd5Hash="93e33c187cc847c5629ea87c10531efa" />
   </Files>
 </PatchInfo>
