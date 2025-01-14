@@ -6,7 +6,7 @@
   <Patches>
     <IncrementalPatch Files="0" CompressionFormat="NONE" PatchSize="10240" PatchMd5Hash="1276481102f218c981e0324180bafd9f" InfoURL="" DownloadURL="">
       <FromVersion>1.0.0</FromVersion>
-      <ToVersion>1.0.1</ToVersion>
+      <ToVersion>1.0.2</ToVersion>
     </IncrementalPatch>
   </Patches>
   <InstallerPatch CompressionFormat="NONE" PatchSize="4560384000" PatchMd5Hash="906acb7edbf327a31a4fbaf7f1838b49" DownloadURL="" />
