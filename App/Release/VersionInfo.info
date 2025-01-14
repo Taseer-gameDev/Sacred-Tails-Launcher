@@ -2,14 +2,9 @@
 <VersionInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <BaseDownloadURL>https://github.com/Taseer-gameDev/Sacred-Tails-Launcher/tree/main/App/Release/</BaseDownloadURL>
   <MaintenanceCheckURL />
-  <Version>1.0.1</Version>
-  <Patches>
-    <IncrementalPatch Files="0" CompressionFormat="NONE" PatchSize="10240" PatchMd5Hash="1276481102f218c981e0324180bafd9f" InfoURL="" DownloadURL="">
-      <FromVersion>1.0.0</FromVersion>
-      <ToVersion>1.0.1</ToVersion>
-    </IncrementalPatch>
-  </Patches>
-  <InstallerPatch CompressionFormat="NONE" PatchSize="4560384000" PatchMd5Hash="906acb7edbf327a31a4fbaf7f1838b49" DownloadURL="" />
+  <Version>1.0.0</Version>
+  <Patches />
+  <InstallerPatch CompressionFormat="NONE" PatchSize="4560220160" PatchMd5Hash="fcc875bc9175070c4a9599342b4b8112" DownloadURL="" />
   <IgnoredPaths>
     <string>*patcher_log.txt</string>
     <string>SelfUpdater\</string>
@@ -40,7 +35,6 @@
     <VersionItem Path="MonoBleedingEdge\etc\mono\4.5\web.config" FileSize="18811" Md5Hash="5075af18fe1d2b5f9555d5cc68029814" CompressedFileSize="18811" CompressedMd5Hash="5075af18fe1d2b5f9555d5cc68029814" DownloadURL="" />
     <VersionItem Path="MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser" FileSize="1605" Md5Hash="0d831c1264b5b32a39fa347de368fe48" CompressedFileSize="1605" CompressedMd5Hash="0d831c1264b5b32a39fa347de368fe48" DownloadURL="" />
     <VersionItem Path="MonoBleedingEdge\etc\mono\mconfig\config.xml" FileSize="25817" Md5Hash="f34b330f20dce1bdcce9058fca287099" CompressedFileSize="25817" CompressedMd5Hash="f34b330f20dce1bdcce9058fca287099" DownloadURL="" />
-    <VersionItem Path="SacredTails_BurstDebugInformation_DoNotShip\Data\Plugins\x86_64\lib_burst_generated.txt" FileSize="165612" Md5Hash="55dfcddbe7e6235dab42777671cae056" CompressedFileSize="165612" CompressedMd5Hash="55dfcddbe7e6235dab42777671cae056" DownloadURL="" />
     <VersionItem Path="SacredTails_Data\app.info" FileSize="17" Md5Hash="c65183dacc54b1c11914e4e16b3e8c32" CompressedFileSize="17" CompressedMd5Hash="c65183dacc54b1c11914e4e16b3e8c32" DownloadURL="" />
     <VersionItem Path="SacredTails_Data\boot.config" FileSize="164" Md5Hash="e17d2000b40afde09b2022d077c85f06" CompressedFileSize="164" CompressedMd5Hash="e17d2000b40afde09b2022d077c85f06" DownloadURL="" />
     <VersionItem Path="SacredTails_Data\globalgamemanagers" FileSize="670836" Md5Hash="430167d6238043f240fd9b66fdd6c125" CompressedFileSize="670836" CompressedMd5Hash="430167d6238043f240fd9b66fdd6c125" DownloadURL="" />
