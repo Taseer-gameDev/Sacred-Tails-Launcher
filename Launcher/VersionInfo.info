@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<VersionInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BaseDownloadURL>https://github.com/Taseer-gameDev/Sacred-Tails-Launcher/tree/main/Launcher/</BaseDownloadURL>
+  <MaintenanceCheckURL />
+  <Version>1.0.3</Version>
+  <Patches>
+    <IncrementalPatch Files="0" CompressionFormat="NONE" PatchSize="10240" PatchMd5Hash="1276481102f218c981e0324180bafd9f" InfoURL="" DownloadURL="">
+      <FromVersion>1.0.0</FromVersion>
+      <ToVersion>1.0.1</ToVersion>
+    </IncrementalPatch>
+    <IncrementalPatch Files="0" CompressionFormat="NONE" PatchSize="10240" PatchMd5Hash="1276481102f218c981e0324180bafd9f" InfoURL="" DownloadURL="">
+      <FromVersion>1.0.1</FromVersion>
+      <ToVersion>1.0.2</ToVersion>
+    </IncrementalPatch>
+    <IncrementalPatch Files="0" CompressionFormat="NONE" PatchSize="10240" PatchMd5Hash="1276481102f218c981e0324180bafd9f" InfoURL="" DownloadURL="">
+      <FromVersion>1.0.2</FromVersion>
+      <ToVersion>1.0.3</ToVersion>
+    </IncrementalPatch>
+  </Patches>
+  <InstallerPatch CompressionFormat="NONE" PatchSize="198379520" PatchMd5Hash="3fbd033ac4dbaad662d710f46d792a71" DownloadURL="" />
+  <IgnoredPaths>
+    <string>*patcher_log.txt</string>
+    <string>*output_log.txt</string>
+  </IgnoredPaths>
+  <CompressionFormat>NONE</CompressionFormat>
+  <Files>
+    <VersionItem Path="GameLauncher.exe" FileSize="198371654" Md5Hash="b3f1d40f2d9117c23800623d9aaa3cbd" CompressedFileSize="198371654" CompressedMd5Hash="b3f1d40f2d9117c23800623d9aaa3cbd" DownloadURL="" />
+  </Files>
+  <Name>Launcher</Name>
+</VersionInfo>
