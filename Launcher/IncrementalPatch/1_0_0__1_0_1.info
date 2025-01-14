@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:232fe540f0a532eb2ba5f9ca560a276183484ccc213b8617ef91def2e370a0d9
-size 197
+<?xml version="1.0" encoding="utf-8"?>
+<PatchInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RenamedFiles />
+  <Files>
+    <PatchItem Path="SelfUpdater\SelfPatcher.exe" BeforeFileSize="0" BeforeMd5Hash="" AfterFileSize="91136" AfterMd5Hash="892084145a721a34e3a17fb1556a4080" />
+    <PatchItem Path="SelfUpdater\SelfPatcherCore.dll" BeforeFileSize="0" BeforeMd5Hash="" AfterFileSize="8704" AfterMd5Hash="bac8446629bfed2ac4e6dda963fc44a9" />
+  </Files>
+</PatchInfo>
